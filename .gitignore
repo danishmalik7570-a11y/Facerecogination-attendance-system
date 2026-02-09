@@ -1,0 +1,16 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# Project-specific
+attendance.csv
+Media1.mp4
+
+# IDE-related
+.vscode/
+.idea/
