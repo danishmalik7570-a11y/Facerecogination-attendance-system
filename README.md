@@ -105,6 +105,6 @@ This project is open-source and available under the MIT License.
 ---
 
 ## 👨‍💻 Developed By
-**Ujjawal** 
+**Muhammad Danish** 
 
 *Feel free to reach out for questions or collaborations!*
